@@ -1,0 +1,8 @@
+C:\Users\PC\NetCore\Ejercicio2_BD\obj\Debug\net6.0\Ejercicio2_BD.csproj.AssemblyReference.cache
+C:\Users\PC\NetCore\Ejercicio2_BD\obj\Debug\net6.0\Ejercicio2_BD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\NetCore\Ejercicio2_BD\obj\Debug\net6.0\Ejercicio2_BD.AssemblyInfoInputs.cache
+C:\Users\PC\NetCore\Ejercicio2_BD\obj\Debug\net6.0\Ejercicio2_BD.AssemblyInfo.cs
+C:\Users\PC\NetCore\Ejercicio2_BD\obj\Debug\net6.0\Ejercicio2_BD.csproj.CoreCompileInputs.cache
+C:\Users\PC\NetCore\Ejercicio2_BD\obj\Debug\net6.0\Ejercicio2_BD.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\PC\NetCore\Ejercicio2_BD\obj\Debug\net6.0\Ejercicio2_BD.RazorAssemblyInfo.cache
+C:\Users\PC\NetCore\Ejercicio2_BD\obj\Debug\net6.0\Ejercicio2_BD.RazorAssemblyInfo.cs
